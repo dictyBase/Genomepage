@@ -5412,10 +5412,10 @@ forwarded@0.2.0:
   resolved "https://registry.yarnpkg.com/forwarded/-/forwarded-0.2.0.tgz#2269936428aad4c15c7ebe9779a84bf0b2a81811"
   integrity sha512-buRG0fpBtRHSTCOASe6hD258tEubFoRLb4ZNA6NxMVHNw2gOcwHo9wyablzMzOA5z9xA9L1KNjk/Nt6MT9aYow==
 
-fp-ts-std@^0.15.1:
-  version "0.15.1"
-  resolved "https://registry.yarnpkg.com/fp-ts-std/-/fp-ts-std-0.15.1.tgz#2df610c5e048e565f601faf1834ab5ff5944dfb7"
-  integrity sha512-JvWjUki14fxuse8QAFubdNi4g+o7qWq94n31sxlD8hobl8KbyfguK69yQZBkNQu+q+8b5yYxgyevs003w6sDNA==
+fp-ts-std@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/fp-ts-std/-/fp-ts-std-1.0.0.tgz#34a4844d68caf53e83ac46399f2bc26f1f7d11d8"
+  integrity sha512-4i7huB/OMVOrvbSizd9YAg3PRQWrxLfcdX1ZelokWAEmXiFjDCghNCQ09U9xhqXH7OFk1ZaKRlIrrptYL4hsDg==
 
 fp-ts@^2.16.6:
   version "2.16.6"
