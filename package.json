@@ -22,7 +22,7 @@
     "postinstall": "husky install"
   },
   "dependencies": {
-    "@apollo/client": "^3.7.10",
+    "@apollo/client": "^3.12.5",
     "@emotion/react": "^11.13.3",
     "@emotion/styled": "^11.11.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
