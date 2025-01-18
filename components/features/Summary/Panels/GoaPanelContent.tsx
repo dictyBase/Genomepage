@@ -37,7 +37,7 @@ const GoaPanelContent = ({ data }: Props) => {
 
   return (
     <React.Fragment>
-      {data.go_term}
+      {<a href={item.go_term.link}>{item.go_term.name}</a>}
       {withData}
       {extensionsData} ({data.evidence_code})
       <br />

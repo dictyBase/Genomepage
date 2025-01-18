@@ -33,7 +33,8 @@ const GoaDisplayTableRow = ({ item }: Props) => {
   return (
     <TableRow className={classes.row} data-testid="table-row">
       <TableCell component="th" scope="row">
-        {qualifierFormatter(item.qualifier)} {item.go_term}
+        {qualifierFormatter(item.qualifier)}
+        {<a href={item.go_term.link}>{item.go_term.name}</a>}
       </TableCell>
       <TableCell>
         {item.extensions?.map((item: Extension, index: number) => (
